@@ -85,6 +85,9 @@ button{
   margin-top: 30px;
   text-align: center;
 }
+.btn-wrapper > a{
+  color: #ffff;
+}
 .container-flex-secondary{
   background-color: rgb(234, 247, 247);
   justify-content: space-around;
